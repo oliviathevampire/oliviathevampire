@@ -62,15 +62,15 @@ Here are some ideas to get you started:
 
 <li>
 <a href="https://twitter.com/oliviathevampyr" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  oliviathevampyr-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  oliviathevampyr-%E4405F.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:sindrefagerheim53@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  sindrefagerheim53-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="https://instagram.com/oliviathevampire" target="_blank">
+<img src="https://img.shields.io/badge/instagram:  oliviathevampire-%23EA4335.svg?style=for-the-badge&logo=instagram&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
