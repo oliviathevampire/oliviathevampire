@@ -72,12 +72,27 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/oliviathevampire" target="_blank">
 <img src="https://img.shields.io/badge/instagram:  oliviathevampire-%23EA4335.svg?style=for-the-badge&logo=instagram&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
-	
-</ul>
-</div>
 
-![OliviaTheVampire's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliviathevampire&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+</p>
+
+<br>
+<br>
+
+-----
+
+<br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/0xabdulkhalid/">
+  <img src="https://github-readme-stats.vercel.app/api?username=oliviathevampire&include_all_commits=true&count_private=true&show_icons=true&theme=dracula" width="450"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=oliviathevampire&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" width="375"  alt="oliviathevampire"/>
+</a>
+</div>
 
 [![@oliviathevampire's Holopin board](https://holopin.me/oliviathevampire)](https://holopin.io/@oliviathevampire)
 
