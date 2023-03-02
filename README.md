@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![OliviaTheVampire's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliviathevampire&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+
+[![@oliviathevampire's Holopin board](https://holopin.me/oliviathevampire)](https://holopin.io/@oliviathevampire)
+
+![Snake Chart](https://raw.githubusercontent.com/oliviathevampire/oliviathevampire/output/github-contribution-grid-snake.svg)
