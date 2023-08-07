@@ -73,6 +73,15 @@
 <a href="https://instagram.com/oliviathevampire" target="_blank">
 <img src="https://img.shields.io/badge/instagram:  oliviathevampire-%23EA4335.svg?style=for-the-badge&logo=instagram&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
+</li>
+
+<br>
+
+<li>
+<a rel="me" href="https://mastodon.social/@oliviathevampire">
+<img src="https://img.shields.io/badge/mastodon oliviathevampire@mastodon.social-%235A47DC.svg?style=for-the-badge&logo=mastodon&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+</li>
 
 </p>
 
