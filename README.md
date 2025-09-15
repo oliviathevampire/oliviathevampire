@@ -52,7 +52,6 @@ Alongside game dev, I create for the web using **Next.js, TailwindCSS, and ShadC
 | **Design Tools** | ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp; |
 | **Operating Systems & Software** | ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=black)&nbsp; ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) |
 | **Browsers** | ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=fff)&nbsp; ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) |
-| **AI Tools** | ![ChatGPT](https://img.shields.io/badge/chatGPT-51786e?style=for-the-badge&logo=openai&logoColor=white)&nbsp; ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=black) ![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=fff) |
 | | |
 
 [![@oliviathevampire's Holopin board](https://holopin.me/oliviathevampire)](https://holopin.io/@oliviathevampire)
